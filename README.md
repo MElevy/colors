@@ -6,4 +6,6 @@ print in color with the printc function or print(colors.blue+'your text'+colors.
 
 replace blue with the color you want your text to be
 
-or return your string colored!
+or return your string colored using color!
+
+refer to the example for more information.
